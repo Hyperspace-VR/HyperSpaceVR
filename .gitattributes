@@ -1,0 +1,6 @@
+Content/** filter=lfs diff=lfs merge=lfs -text
+.uasset filter=lfs diff=lfs merge=lfs -text
+.umap filter=lfs diff=lfs merge=lfs -text
+.ico filter=lfs diff=lfs merge=lfs -text
+.locmeta filter=lfs diff=lfs merge=lfs -text
+.locres filter=lfs diff=lfs merge=lfs -text
